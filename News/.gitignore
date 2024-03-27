@@ -1,0 +1,8 @@
+.htaccess
+.buildpath
+.settings/
+.project
+.idea/
+system/
+index.php
+license.txt
